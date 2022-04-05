@@ -1,0 +1,23 @@
+.fuente{
+    font-family: 'Roboto Mono', monospace;
+}
+.fondo{
+    background-image: url("imagenes/ESCENA.gif");
+    align-items: center;
+    
+}
+.fondobanner{
+    background-image: url("imagenes/ESCENA.gif");
+    align-items: center;
+    height: 300px;
+    background-attachment: fixed;
+   
+} 
+nav ul {
+    background-image: url("imagenes/musica.gif");
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 65px;
+    color: crimson;
+}
